@@ -1,0 +1,12 @@
+[submodule "DrakeTyporaTheme"]
+	path = DrakeTyporaTheme
+	url = https://github.com/liangjingkanji/DrakeTyporaTheme.git
+[submodule "typora-ash-theme"]
+	path = typora-ash-theme
+	url = https://github.com/typora/typora-ash-theme.git
+[submodule "typora-theme-phycat"]
+	path = typora-theme-phycat
+	url = https://github.com/sumruler/typora-theme-phycat
+[submodule "typora-theme-ursine"]
+	path = typora-theme-ursine
+	url = https://github.com/noatpad/typora-theme-ursine
