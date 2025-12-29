@@ -6,7 +6,7 @@
 ## 仓库克隆
 由于包含Submodule，需使用递归克隆拉取所有主题资源：
 ```bash
-git clone --recursive https://github.com/[替换为你的仓库地址].git
+git clone --recursive https://github.com/muxuezzz/my_typora_theme.git
 ```
 
 若克隆后子模块未自动加载，执行以下命令补全：
