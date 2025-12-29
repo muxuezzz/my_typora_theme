@@ -23,17 +23,15 @@ git submodule update --remote
 
 
 ## 包含的主题列表
-| 主题名称               | Submodule路径           | 对应原压缩包             | 源项目地址（替换为实际GitHub链接） |
-|------------------------|-------------------------|--------------------------|------------------------------------|
-| DrakeTyporaTheme       | DrakeTyporaTheme/       | DrakeTyporaTheme-2.9.6.zip | https://github.com/[作者]/DrakeTyporaTheme |
-| typora-ash-theme       | typora-ash-theme/       | typora-ash-theme-master.zip | https://github.com/[作者]/typora-ash-theme |
-| typora-theme-phycat    | typora-theme-phycat/    | typora-theme-phycat.zip  | https://github.com/[作者]/typora-theme-phycat |
-| Ursine                 | Ursine/                 | Ursine.zip               | https://github.com/[作者]/Ursine   |
+| 主题名称               | Submodule路径             | 源项目地址（替换为实际GitHub链接） |
+|------------------------|-------------------------|------------------------------------|
+| DrakeTyporaTheme       | DrakeTyporaTheme/       |[https://github.com/liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) |
+| typora-ash-theme       | typora-ash-theme/       |[https://github.com/typora/typora-ash-theme](https://github.com/typora/typora-ash-theme) |
+| typora-theme-phycat    | typora-theme-phycat/    |[https://github.com/sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat) |
+| typora-theme-ursine    | typora-theme-ursine/    |[https://github.com/noatpad/typora-theme-ursine](https://github.com/noatpad/typora-theme-ursine)   |
 
 
 ## 注意事项
 1. 各主题的安装、配置方法，请参考对应Submodule目录内的说明文档；
 2. 若需添加新主题，可通过`git submodule add [主题GitHub地址] [本地路径]`命令扩展。
-
-
-要不要我帮你整理**Typora主题的快速启用步骤指南**？
+？
